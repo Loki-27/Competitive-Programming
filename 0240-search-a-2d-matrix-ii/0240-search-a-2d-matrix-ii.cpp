@@ -14,17 +14,17 @@ public:
 
         bool f1,f2,f3;
         if (matrix[Cmid][Rmid]>t){
-            f1 = BS(matrix,t ,Clow ,Cmid-1 ,Rlow ,Rmid-1);
+            f1 = BS(matrix,t ,Clow ,Cmid-1 ,Rlow ,Rhigh);
             
             f2 = BS(matrix,t ,Cmid ,Chigh ,Rlow, Rmid-1);
 
-            f3 = BS(matrix,t ,Clow ,Cmid-1 ,Rmid, Rhigh);
+            f3 = false;
             
         }
         else{
-            f1 = BS(matrix,t ,Cmid+1 ,Chigh ,Rmid+1 ,Rhigh);
+            f1 = BS(matrix,t ,Clow ,Chigh ,Rmid+1 ,Rhigh);
             
-            f2 = BS(matrix,t ,Clow ,Cmid ,Rmid+1, Rhigh);
+            f2 = false;
 
             f3 = BS(matrix,t ,Cmid+1 ,Chigh ,Rlow, Rmid);
         }
