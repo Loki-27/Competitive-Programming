@@ -19,9 +19,7 @@ public:
         for (int i = buckets.size()-1;i>=0;i--){
             if (!buckets[i].empty()){
                 for(int j = 0; j<buckets[i].size();j++){
-                    for(int freq = 0;freq<i;freq++){
-                        ans.push_back(buckets[i][j]);
-                    }
+                        ans.append(i,buckets[i][j]);   
                 }
             }
         }
