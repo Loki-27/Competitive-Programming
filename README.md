@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Loki-27/Competitive-Programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Loki-27/Competitive-Programming/tree/master/0074-search-a-2d-matrix) |
+| [0152-maximum-product-subarray](https://github.com/Loki-27/Competitive-Programming/tree/master/0152-maximum-product-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Loki-27/Competitive-Programming/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Loki-27/Competitive-Programming/tree/master/0410-split-array-largest-sum) |
 | [0645-set-mismatch](https://github.com/Loki-27/Competitive-Programming/tree/master/0645-set-mismatch) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Loki-27/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
+| [0152-maximum-product-subarray](https://github.com/Loki-27/Competitive-Programming/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Loki-27/Competitive-Programming/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
