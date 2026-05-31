@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Loki-27/Competitive-Programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Loki-27/Competitive-Programming/tree/master/0074-search-a-2d-matrix) |
 | [0152-maximum-product-subarray](https://github.com/Loki-27/Competitive-Programming/tree/master/0152-maximum-product-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/Loki-27/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Loki-27/Competitive-Programming/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Loki-27/Competitive-Programming/tree/master/0410-split-array-largest-sum) |
 | [0645-set-mismatch](https://github.com/Loki-27/Competitive-Programming/tree/master/0645-set-mismatch) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Loki-27/Competitive-Programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Loki-27/Competitive-Programming/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/Loki-27/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Loki-27/Competitive-Programming/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Loki-27/Competitive-Programming/tree/master/0410-split-array-largest-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/Loki-27/Competitive-Programming/tree/master/1901-find-a-peak-element-ii) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Loki-27/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Loki-27/Competitive-Programming/tree/master/0410-split-array-largest-sum) |
 ## Hash Table
 |  |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Loki-27/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Loki-27/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
