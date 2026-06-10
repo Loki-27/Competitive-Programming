@@ -31,8 +31,8 @@ public:
         // }
 
         int i = n-1;
-        while(n>0 && i>0){
-            while((height[i] < height[n] && pge[i]!=-1) && i>0){
+        while(n>=0 && i>=0){
+            while((height[i] < height[n] && pge[i]!=-1) && i>=0){
                 i = pge[i];
             }
             int max_wheight = min(height[i],height[n]);
@@ -46,21 +46,3 @@ public:
         return ans;
     }
 };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
