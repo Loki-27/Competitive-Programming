@@ -8,7 +8,8 @@ public:
             while(!st.empty() && temperatures[x] >= temperatures[st.top()]){
                 st.pop();
             }
-            if (!st.empty()) ans[x] = st.top()-x;
+            int temp = (st.empty()) ? 0 : temperatures[st.top()];
+            if (temp>temperatures[x]) ans[x] = st.top()-x;
             else ans[x]=0;
             st.push(x);
         }
