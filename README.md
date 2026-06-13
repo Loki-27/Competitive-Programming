@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Loki-27/Competitive-Programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Loki-27/Competitive-Programming/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1901-find-a-peak-element-ii](https://github.com/Loki-27/Competitive-Programming/tree/master/1901-find-a-peak-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/Loki-27/Competitive-Programming/tree/master/2104-sum-of-subarray-ranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Loki-27/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Loki-27/Competitive-Programming/tree/master/0907-sum-of-subarray-minimums) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Loki-27/Competitive-Programming/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2104-sum-of-subarray-ranges](https://github.com/Loki-27/Competitive-Programming/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Loki-27/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Loki-27/Competitive-Programming/tree/master/0907-sum-of-subarray-minimums) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Loki-27/Competitive-Programming/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2104-sum-of-subarray-ranges](https://github.com/Loki-27/Competitive-Programming/tree/master/2104-sum-of-subarray-ranges) |
 ## Math
 |  |
 | ------- |
