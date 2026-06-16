@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Loki-27/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Loki-27/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Loki-27/Competitive-Programming/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Loki-27/Competitive-Programming/tree/master/0904-fruit-into-baskets) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Loki-27/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Loki-27/Competitive-Programming/tree/master/0008-string-to-integer-atoi) |
 | [0151-reverse-words-in-a-string](https://github.com/Loki-27/Competitive-Programming/tree/master/0151-reverse-words-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Loki-27/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Loki-27/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Loki-27/Competitive-Programming/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Heap (Priority Queue)
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Loki-27/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Loki-27/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Loki-27/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Loki-27/Competitive-Programming/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Loki-27/Competitive-Programming/tree/master/1004-max-consecutive-ones-iii) |
 ## Depth-First Search
