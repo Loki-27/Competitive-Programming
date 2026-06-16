@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Loki-27/Competitive-Programming/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/Loki-27/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Loki-27/Competitive-Programming/tree/master/0907-sum-of-subarray-minimums) |
+| [1004-max-consecutive-ones-iii](https://github.com/Loki-27/Competitive-Programming/tree/master/1004-max-consecutive-ones-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Loki-27/Competitive-Programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Loki-27/Competitive-Programming/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1901-find-a-peak-element-ii](https://github.com/Loki-27/Competitive-Programming/tree/master/1901-find-a-peak-element-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Loki-27/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Loki-27/Competitive-Programming/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Loki-27/Competitive-Programming/tree/master/0410-split-array-largest-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Loki-27/Competitive-Programming/tree/master/1004-max-consecutive-ones-iii) |
 | [1901-find-a-peak-element-ii](https://github.com/Loki-27/Competitive-Programming/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Loki-27/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Loki-27/Competitive-Programming/tree/master/0410-split-array-largest-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Loki-27/Competitive-Programming/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Loki-27/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Loki-27/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Loki-27/Competitive-Programming/tree/master/1004-max-consecutive-ones-iii) |
 ## Depth-First Search
 |  |
 | ------- |
