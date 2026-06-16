@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/Loki-27/Competitive-Programming/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Loki-27/Competitive-Programming/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/Loki-27/Competitive-Programming/tree/master/0739-daily-temperatures) |
+| [0904-fruit-into-baskets](https://github.com/Loki-27/Competitive-Programming/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Loki-27/Competitive-Programming/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/Loki-27/Competitive-Programming/tree/master/1004-max-consecutive-ones-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Loki-27/Competitive-Programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Loki-27/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Loki-27/Competitive-Programming/tree/master/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/Loki-27/Competitive-Programming/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Loki-27/Competitive-Programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Loki-27/Competitive-Programming/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Bit Manipulation
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Loki-27/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Loki-27/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/Loki-27/Competitive-Programming/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Loki-27/Competitive-Programming/tree/master/1004-max-consecutive-ones-iii) |
 ## Depth-First Search
 |  |
