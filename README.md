@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Loki-27/Competitive-Programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Loki-27/Competitive-Programming/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Loki-27/Competitive-Programming/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1732-find-the-highest-altitude](https://github.com/Loki-27/Competitive-Programming/tree/master/1732-find-the-highest-altitude) |
 | [1901-find-a-peak-element-ii](https://github.com/Loki-27/Competitive-Programming/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Loki-27/Competitive-Programming/tree/master/2104-sum-of-subarray-ranges) |
 ## Binary Search
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Loki-27/Competitive-Programming/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Loki-27/Competitive-Programming/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Loki-27/Competitive-Programming/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1732-find-the-highest-altitude](https://github.com/Loki-27/Competitive-Programming/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
