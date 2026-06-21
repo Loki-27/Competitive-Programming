@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Loki-27/Competitive-Programming/tree/master/0410-split-array-largest-sum) |
 | [0463-island-perimeter](https://github.com/Loki-27/Competitive-Programming/tree/master/0463-island-perimeter) |
 | [0503-next-greater-element-ii](https://github.com/Loki-27/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
+| [0621-task-scheduler](https://github.com/Loki-27/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [0636-exclusive-time-of-functions](https://github.com/Loki-27/Competitive-Programming/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Loki-27/Competitive-Programming/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/Loki-27/Competitive-Programming/tree/master/0739-daily-temperatures) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Loki-27/Competitive-Programming/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/Loki-27/Competitive-Programming/tree/master/0621-task-scheduler) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Loki-27/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Loki-27/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Loki-27/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Loki-27/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Loki-27/Competitive-Programming/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Loki-27/Competitive-Programming/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Loki-27/Competitive-Programming/tree/master/0992-subarrays-with-k-different-integers) |
@@ -90,12 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Loki-27/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Loki-27/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Loki-27/Competitive-Programming/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Loki-27/Competitive-Programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Loki-27/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Loki-27/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Loki-27/Competitive-Programming/tree/master/0992-subarrays-with-k-different-integers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Loki-27/Competitive-Programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Loki-27/Competitive-Programming/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -128,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Loki-27/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Loki-27/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Loki-27/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/Loki-27/Competitive-Programming/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
