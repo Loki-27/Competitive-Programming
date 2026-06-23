@@ -56,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Loki-27/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/Loki-27/Competitive-Programming/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Loki-27/Competitive-Programming/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Loki-27/Competitive-Programming/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Loki-27/Competitive-Programming/tree/master/0907-sum-of-subarray-minimums) |
 ## Greedy
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Loki-27/Competitive-Programming/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Loki-27/Competitive-Programming/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/Loki-27/Competitive-Programming/tree/master/0678-valid-parenthesis-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Loki-27/Competitive-Programming/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Loki-27/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Loki-27/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/Loki-27/Competitive-Programming/tree/master/0678-valid-parenthesis-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Loki-27/Competitive-Programming/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Loki-27/Competitive-Programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Loki-27/Competitive-Programming/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Loki-27/Competitive-Programming/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/Loki-27/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/Loki-27/Competitive-Programming/tree/master/0636-exclusive-time-of-functions) |
+| [0678-valid-parenthesis-string](https://github.com/Loki-27/Competitive-Programming/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Loki-27/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Loki-27/Competitive-Programming/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Loki-27/Competitive-Programming/tree/master/0907-sum-of-subarray-minimums) |
