@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Loki-27/Competitive-Programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/Loki-27/Competitive-Programming/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Loki-27/Competitive-Programming/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Loki-27/Competitive-Programming/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Loki-27/Competitive-Programming/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Loki-27/Competitive-Programming/tree/master/0084-largest-rectangle-in-histogram) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Loki-27/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Loki-27/Competitive-Programming/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Loki-27/Competitive-Programming/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Loki-27/Competitive-Programming/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/Loki-27/Competitive-Programming/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Loki-27/Competitive-Programming/tree/master/0410-split-array-largest-sum) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Loki-27/Competitive-Programming/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Loki-27/Competitive-Programming/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Loki-27/Competitive-Programming/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Loki-27/Competitive-Programming/tree/master/0621-task-scheduler) |
