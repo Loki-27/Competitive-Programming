@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Loki-27/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Loki-27/Competitive-Programming/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Loki-27/Competitive-Programming/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Loki-27/Competitive-Programming/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Loki-27/Competitive-Programming/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Loki-27/Competitive-Programming/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Loki-27/Competitive-Programming/tree/master/0084-largest-rectangle-in-histogram) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Loki-27/Competitive-Programming/tree/master/0056-merge-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Loki-27/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Loki-27/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Loki-27/Competitive-Programming/tree/master/0645-set-mismatch) |
