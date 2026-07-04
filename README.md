@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Loki-27/Competitive-Programming/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Loki-27/Competitive-Programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Loki-27/Competitive-Programming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Loki-27/Competitive-Programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0135-candy](https://github.com/Loki-27/Competitive-Programming/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Loki-27/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Loki-27/Competitive-Programming/tree/master/0152-maximum-product-subarray) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Loki-27/Competitive-Programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Loki-27/Competitive-Programming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Loki-27/Competitive-Programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Loki-27/Competitive-Programming/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Loki-27/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Loki-27/Competitive-Programming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Loki-27/Competitive-Programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0424-longest-repeating-character-replacement](https://github.com/Loki-27/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Loki-27/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Loki-27/Competitive-Programming/tree/master/0621-task-scheduler) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Loki-27/Competitive-Programming/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Loki-27/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Loki-27/Competitive-Programming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Loki-27/Competitive-Programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Loki-27/Competitive-Programming/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Loki-27/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Loki-27/Competitive-Programming/tree/master/0199-binary-tree-right-side-view) |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Loki-27/Competitive-Programming/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Loki-27/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Loki-27/Competitive-Programming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Loki-27/Competitive-Programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Loki-27/Competitive-Programming/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Loki-27/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Loki-27/Competitive-Programming/tree/master/0199-binary-tree-right-side-view) |
