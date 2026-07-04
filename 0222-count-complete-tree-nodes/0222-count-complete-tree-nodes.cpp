@@ -12,23 +12,35 @@
 
 class Solution {
 public:
-    int countNodes(TreeNode* root) {
+    int leftheight(TreeNode* root){
         if(!root) return 0;
-        queue<TreeNode*> q;
-        q.push(root);
 
-        int ans = 0;
-        while(!q.empty()){
-            int size = q.size();
-            ans+=size;
-            for(int i = 0;i<size;i++){
-                TreeNode* curr = q.front();q.pop();
-
-                if(curr->left) q.push(curr->left);
-                if(curr->right) q.push(curr->right);
-            }
+        int height =0;
+        while(root){
+            height++;
+            root = root->left;
         }
-        return ans;
+        return height;
+    }
+    int rightheight(TreeNode* root){
+        if(!root) return 0;
+
+        int height =0;
+        while(root){
+            height++;
+            root = root->right;
+        }
+        return height;
+    }
+    int countNodes(TreeNode* root) {
+        if (!root) return 0;
+
+        int lh = leftheight(root);
+        int rh = rightheight(root);
+
+        if(lh==rh) return (1<<lh)-1;
+
+        return 1+countNodes(root->left)+countNodes(root->right);
 
     }
 };
