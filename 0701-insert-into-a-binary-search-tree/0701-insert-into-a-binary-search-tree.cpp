@@ -12,9 +12,6 @@
 class Solution {
 public:
     TreeNode* intobst(TreeNode* root, int val){
-        if(!root){
-            return root;
-        }
         if(val>root->val) {
             if(!root->right) return root;
             return intobst(root->right,val);}
