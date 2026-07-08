@@ -21,7 +21,21 @@ public:
         return helper(root->left,root->val,mini) &&
                 helper(root->right,maxi,root->val);
     }
+
+    bool inorder(TreeNode* root,long long& prev){
+        if(!root) return true;
+
+        if(!inorder(root->left,prev)) return false;
+
+        if(prev>=root->val) return false;
+
+        prev = root->val;
+
+        return inorder(root->right,prev);
+    }
     bool isValidBST(TreeNode* root) {
-        return helper(root,LLONG_MAX,LLONG_MIN);
+        // return helper(root,LLONG_MAX,LLONG_MIN);
+        long long prev = LLONG_MIN;
+        return inorder(root,prev);
     }
 };
