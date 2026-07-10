@@ -21,11 +21,16 @@ public:
     bool findTarget(TreeNode* root, int k) {
         vector<int> v;
         inorder(root,v);
-        unordered_map<int,bool> map;
-        for(auto& x:v) map[x]=true;
+        
+        int i =0,j= v.size()-1;
 
-        for(auto& x:v) if(x!=k-x && map[k-x]) return true;
+        while(i<j){
+            int sum = v[i]+v[j];
 
+            if(sum==k) return true;
+            else if(sum<k) i++;
+            else j--;
+        }
         return false;
     }
 };
