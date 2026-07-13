@@ -22,8 +22,8 @@ public:
         long long e = 5;
         long long o = 4;
 
-        long long n1 = 1LL*(n-1)/2 +1;
-        long long n2 = 1LL*n/2;
+        long long n1 = (n-1)/2 +1;
+        long long n2 = n/2;
         long long mod = 1e9+7;
         return (int)(myPow(e,n1)%mod * myPow(o,n2)%mod)%mod;
     }
