@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Loki-27/Competitive-Programming/tree/master/0222-count-complete-tree-nodes) |
 | [0645-set-mismatch](https://github.com/Loki-27/Competitive-Programming/tree/master/0645-set-mismatch) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Loki-27/Competitive-Programming/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Sorting
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Loki-27/Competitive-Programming/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Loki-27/Competitive-Programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Loki-27/Competitive-Programming/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Loki-27/Competitive-Programming/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Loki-27/Competitive-Programming/tree/master/0257-binary-tree-paths) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Loki-27/Competitive-Programming/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## String Matching
 |  |
 | ------- |
