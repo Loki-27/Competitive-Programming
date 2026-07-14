@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Loki-27/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Loki-27/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Loki-27/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Loki-27/Competitive-Programming/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Loki-27/Competitive-Programming/tree/master/0055-jump-game) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Loki-27/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Loki-27/Competitive-Programming/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/Loki-27/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Loki-27/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/Loki-27/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Loki-27/Competitive-Programming/tree/master/0151-reverse-words-in-a-string) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Loki-27/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Loki-27/Competitive-Programming/tree/master/0257-binary-tree-paths) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Loki-27/Competitive-Programming/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## String Matching
