@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Loki-27/Competitive-Programming/tree/master/0004-median-of-two-sorted-arrays) |
+| [0039-combination-sum](https://github.com/Loki-27/Competitive-Programming/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Loki-27/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Loki-27/Competitive-Programming/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Loki-27/Competitive-Programming/tree/master/0055-jump-game) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Loki-27/Competitive-Programming/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Loki-27/Competitive-Programming/tree/master/0039-combination-sum) |
 | [0257-binary-tree-paths](https://github.com/Loki-27/Competitive-Programming/tree/master/0257-binary-tree-paths) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Loki-27/Competitive-Programming/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## String Matching
