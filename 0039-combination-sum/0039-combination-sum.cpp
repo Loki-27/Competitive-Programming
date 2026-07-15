@@ -6,17 +6,15 @@ public:
             res.push_back(sub);
             return;
         }
-        if(i==candis.size() || sum>target){
+        if(sum>target){
             return;
         }
 
-        sub.push_back(candis[i]);
-        sum+=candis[i];
-        helper(candis,sub,i,sum,target);
-        sub.pop_back();
-        sum-=candis[i];
-
-        helper(candis,sub,i+1,sum,target);
+        for(int index = i;index<candis.size();index++){
+            sub.push_back(candis[index]);
+            helper(candis,sub,index,sum+candis[index],target);
+            sub.pop_back();
+        }
 
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
