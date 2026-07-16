@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Loki-27/Competitive-Programming/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Loki-27/Competitive-Programming/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Loki-27/Competitive-Programming/tree/master/0084-largest-rectangle-in-histogram) |
+| [0090-subsets-ii](https://github.com/Loki-27/Competitive-Programming/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Loki-27/Competitive-Programming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Loki-27/Competitive-Programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0135-candy](https://github.com/Loki-27/Competitive-Programming/tree/master/0135-candy) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Loki-27/Competitive-Programming/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Loki-27/Competitive-Programming/tree/master/0222-count-complete-tree-nodes) |
 | [0645-set-mismatch](https://github.com/Loki-27/Competitive-Programming/tree/master/0645-set-mismatch) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Loki-27/Competitive-Programming/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Loki-27/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Loki-27/Competitive-Programming/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Loki-27/Competitive-Programming/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/Loki-27/Competitive-Programming/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/Loki-27/Competitive-Programming/tree/master/0257-binary-tree-paths) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Loki-27/Competitive-Programming/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## String Matching
