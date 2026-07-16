@@ -10,6 +10,7 @@ public:
         }
 
         for(int num = i;num<10;num++){
+            if(k-sub.size()>(9-num+1)) break;
             sub.push_back(num);
             helper(sub,num+1,sum-num,k);
             sub.pop_back();
