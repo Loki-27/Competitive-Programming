@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Loki-27/Competitive-Programming/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/Loki-27/Competitive-Programming/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Loki-27/Competitive-Programming/tree/master/0222-count-complete-tree-nodes) |
 | [0645-set-mismatch](https://github.com/Loki-27/Competitive-Programming/tree/master/0645-set-mismatch) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Loki-27/Competitive-Programming/tree/master/0029-divide-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Loki-27/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Loki-27/Competitive-Programming/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/Loki-27/Competitive-Programming/tree/master/1922-count-good-numbers) |
