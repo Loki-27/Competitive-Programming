@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Loki-27/Competitive-Programming/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Loki-27/Competitive-Programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Loki-27/Competitive-Programming/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Loki-27/Competitive-Programming/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Loki-27/Competitive-Programming/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Loki-27/Competitive-Programming/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
@@ -428,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Loki-27/Competitive-Programming/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Loki-27/Competitive-Programming/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
