@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Loki-27/Competitive-Programming/tree/master/0206-reverse-linked-list) |
 | [1922-count-good-numbers](https://github.com/Loki-27/Competitive-Programming/tree/master/1922-count-good-numbers) |
 ## Number Theory
 |  |
@@ -433,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Loki-27/Competitive-Programming/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Loki-27/Competitive-Programming/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
